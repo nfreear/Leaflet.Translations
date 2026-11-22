@@ -1,3 +1,4 @@
+import { ar } from './locales/ar.js';
 import { cz } from './locales/cz.js';
 import { da } from './locales/da.js';
 import { de } from './locales/de.js';
@@ -7,6 +8,7 @@ import { es } from './locales/es.js';
 import { fa } from './locales/fa.js';
 import { fi } from './locales/fi.js';
 import { fr } from './locales/fr.js';
+import { hi } from './locales/hi.js';
 import { hu } from './locales/hu.js';
 import { id } from './locales/id.js';
 import { it } from './locales/it.js';
@@ -21,6 +23,7 @@ import { pt_pt } from './locales/pt_pt.js';
 import { ro } from './locales/ro.js';
 import { ru } from './locales/ru.js';
 import { sv } from './locales/sv.js';
+import { sw } from './locales/sw.js';
 import { tr } from './locales/tr.js';
 import { uk } from './locales/uk.js';
 import { zh } from './locales/zh.js';
@@ -42,6 +45,7 @@ import { zh_tw } from './locales/zh_tw.js';
  */
 
 const locales = {
+    ar,
     cz,
     da,
     de,
@@ -51,6 +55,7 @@ const locales = {
     fa,
     fi,
     fr,
+    hi,
     hu,
     id,
     it,
@@ -65,6 +70,7 @@ const locales = {
     ro,
     ru,
     sv,
+    sw,
     tr,
     uk,
     zh,

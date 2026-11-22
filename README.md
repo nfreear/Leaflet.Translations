@@ -55,6 +55,7 @@ console.log(map.translate('some.plugin.text'));       // "Search"
 
 ## Available translations for Leaflet Core
 
+- `ar`: Arabic
 - `cz`: Czech
 - `da`: Danish
 - `de`: German
@@ -64,6 +65,7 @@ console.log(map.translate('some.plugin.text'));       // "Search"
 - `fa`: Persian/Farsi
 - `fi`: Finnish
 - `fr`: French
+- `hi`: Hindi
 - `hu`: Hungarian
 - `id`: Indonesian
 - `it`: Italian
@@ -78,6 +80,7 @@ console.log(map.translate('some.plugin.text'));       // "Search"
 - `ro`: Romanian
 - `ru`: Russian
 - `sv`: Swedish
+- `sw`: Swahili
 - `tr`: Turkish
 - `uk`: Ukrainian (alternative code)
 - `zh`: Chinese (Simplified)
