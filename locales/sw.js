@@ -1,10 +1,10 @@
 export const sw = {
 	'Map': 'Ramani',
 	'Marker': 'Alama',
-	'Zoom in': 'Kuza',
-	'Zoom out': 'Punguza ukubwa',
+	'Zoom in': 'Vuta karibu',
+	'Zoom out': 'Punguza',
 	'Layers': 'Tabaka',
-	'Enter fullscreen': 'Ingia katika skrini nzima',
-	'Exit fullscreen': 'Toka kwenye skrini nzima',
+	'Enter fullscreen': 'Ingia kwnye skrini nzima',
+	'Exit fullscreen': 'Funga skrini nzima',
 	'Close popup': 'Funga dirisha ibukizi'
 };

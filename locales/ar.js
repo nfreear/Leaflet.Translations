@@ -1,10 +1,10 @@
 export const ar = {
-	'Map': 'خريطة',
+	'Map': 'الخريطة',
 	'Marker': 'علامة',
 	'Zoom in': 'تكبير',
 	'Zoom out': 'تصغير',
-	'Layers': 'طبقات',
-	'Enter fullscreen': 'الدخول إلى وضع ملء الشاشة',
-	'Exit fullscreen': 'الخروج من وضع ملء الشاشة',
+	'Layers': 'الطبقات',
+	'Enter fullscreen': 'ملء الشاشة',
+	'Exit fullscreen': 'الخروج من ملء الشاشة',
 	'Close popup': 'إغلاق النافذة المنبثقة'
 };
